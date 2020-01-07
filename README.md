@@ -22,6 +22,7 @@ scp ~/mykey.pem ./
 . do.sh
 ```
 ## Result
+```
 ~
 ~
 Time taken: 10.641 seconds, Fetched: 3 row(s)
@@ -42,3 +43,5 @@ OK
 dept
 emp
 Time taken: 0.018 seconds, Fetched: 2 row(s)
+```
+
